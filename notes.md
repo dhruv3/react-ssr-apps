@@ -27,3 +27,6 @@
 * The entry point of the bundle is called `client.js` because it's the only part of our application that is not used for the server render.
 * JSX and ES Modules work inside `server.js`.
 * `ReactDOM.hydrate`: This function will use the server-rendered React app and will attach event handlers.
+
+# Post 3
+* Source: [Intro to SSR](https://alligator.io/react/server-side-rendering/)
